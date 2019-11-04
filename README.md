@@ -6,7 +6,7 @@ TenDigitPrimeCalculatorJava is a project to calculate the [Google billboard](htt
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TenDigitPrimeCalculatorJava.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorJava/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/TenDigitPrimeCalculatorJava.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorJava/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/TenDigitPrimeCalculatorJava.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorJava/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TenDigitPrimeCalculatorJava/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TenDigitPrimeCalculatorJava/master/License.txt)
 
 ## References
 http://franzhuber23.blogspot.de/2017/10/google-10-digit-prime-in-eulers-number.html
