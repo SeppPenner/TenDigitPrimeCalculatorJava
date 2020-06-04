@@ -17,4 +17,4 @@ http://franzhuber23.blogspot.de/2017/10/google-10-digit-prime-in-eulers-number.h
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-10-19)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/TenDigitPrimeCalculatorJava/blob/master/Changelog.md).
